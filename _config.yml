@@ -1,29 +1,28 @@
 # Site wide configuration
 
-title: Site Title
-locale: en_US
+title: BD&DS
+locale: es_ES
 logo: # filename of a logo image that has been placed into your images directory
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Your Name
-  avatar: bio-photo.jpg
-  bio: "A brief description of yourself."
-  email: #emailaddress
+  name: JFTAMAMES
+  avatar: jftamames.jpg
+  bio: "Director Master Big Data & Aanalytics EAE."
+  email: jftamames@campus.eae.es
   # Do not include the @ symbol in your Twitter username
-  twitter: #username
-  linkedin: #username
-  github: #username
-  orcid: # ID Number (ex. 0000-0000-0000-0000)
-  researchgate: #username
-  mendeley: #username
+  twitter: jftamames
+  linkedin: jftamames
+  github: jftmamaes
+  researchgate: jftamames
+  
   google:
-    plus: #username
+    plus: jftamames
     analytics:
     verify:
     scholar: #id
-  facebook: #username
-  instagram: #username
+  facebook: jftamames
+  instagram: 
   bing-verify:
   stackoverflow: #123456/username from a "https://stackoverflow.com/users/123456/username" link
   xing: #username
@@ -33,8 +32,8 @@ owner:
   foursquare: #username
   steam: #username
   dribbble: #username
-  youtube: #username
-  soundcloud: #username
+  youtube: jftamames
+  soundcloud: jftamames
   weibo: #username
   flickr: #username
   codepen: #username
@@ -47,8 +46,8 @@ lowlight-color: '#000'
 
   # NOTE: If you would like your site to be licensed under a creative commons license, uncomment the 'yes' next to the type of license you wish to use.
 creative-commons:
-  cc-by: #yes
-  cc-by-nc: #yes
+  cc-by: yes
+  cc-by-nc: yes
 
 #DO NOT EDIT BEYOND THIS POINT
 # Jekyll configuration

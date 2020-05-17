@@ -1,11 +1,11 @@
 # Site navigation links
-- title: Home
+- title: Inicio
   url: /
 
-- title: Presentations
+- title: Presentationes
   url: /presentations/
 
-- title: Resume
+- title: Resumen
   url: /resume/
 
 - title: Blog
