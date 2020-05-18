@@ -1,6 +1,6 @@
 ---
 layout: page
-excerpt: "Sobre mi..."
+excerpt: "Notebooks de referencia"
 ---
 
 
